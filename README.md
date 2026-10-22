@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gesture Control Presenter 🎮🖐️
 
 Control your Google Slides presentations using hand gestures through your laptop camera using Computer Vision and AI.
@@ -222,3 +223,7 @@ Use this project during:
 # 👨‍💻 Built With AI + Computer Vision
 
 A futuristic interaction system powered by hand tracking and real-time gesture recognition.
+=======
+# gesture-control
+AI-powered laptop control using Real-time hand gusture and recognition, Python, OpenCV, MediaPipe, and Computer version
+>>>>>>> 991e395c7ee713046d05569a3b2dfa9d52c5e464
